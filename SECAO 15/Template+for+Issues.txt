@@ -1,0 +1,33 @@
+## Descrição
+
+Descrição
+
+### INICIADO
+
+dd/mm/2018
+
+### FINALIZADO
+
+dd/mm/2018
+
+### Estatisticas
+
+* TESTE / CODIFICAÇÃO: 2
+
+* CODE REVIEW: 0
+
+* TESTES UNITÁRIOS#: 0
+
+* TESTES DE COBERTURA: %
+
+* TESTES DE CONTRATO#: 0
+
+* TESTES DE INTEGRAÇÃO #: 0
+
+* BUGS NOS SERVIÇOS: SIM/NÃO
+
+* BLOQUEIO: 1
+
+## Referência
+
+[RedMine/JIRA/Board Trello](http://link.com/xyz) 

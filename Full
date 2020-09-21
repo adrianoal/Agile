@@ -1,0 +1,281 @@
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+			-- Agile desmistificando com Scrum, XP, Kanban, Spotify e Trello -- 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+1.0101 Apresentação
+
+ o Professor sugeriu comecar pesquisando sobre o Trello .
+ 
+ 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+Seção 16: Bônus O mínimo que você precisa saber para Usar o Trello 
+
+222.BN01 Criando Uma Conta No Trello 
+
+ Link para criação de conta: https://trello.com/
+ 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+223.BN02 Criando Um Time e Adicionando Membros
+
+
+Usuario: zqovynwh@pokemail.net
+Senha:	 zqovynwh@pokemail.net
+
+Usuario: gxruagaq@pokemail.net
+Senha: gxruagaq@pokemail.net
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+224.BN03 Criando Um Quadro(Board)
+
+ My First Board
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+225.BN04 Criando Listas e Cartões 
+
+Tarefa 3
+Tarefa 4
+Tarefa 5
+Tarefa 6
+Tarefa 7
+Tarefa 8
+Tarefa 9
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+Seção 2: O Modelo Tradicional
+
+2.0201 Um pouco de história - A Crise Do Software E As Primeiras Metodologias 
+
+ * Para entender o que é Agile, é necessario entender um pouco de história.
+ 
+ No Final dos anos 60 e início dos anos 70, a capacidade de hardware começou a evoluir em uma
+ velocidade gigantesca e o desenvolvimento de software que até então não tinha nenhuma 
+ metodologia para se baser, isso começou a ficar inviável, porque os projetos começaram a 
+ crescer e com isso a dimenssão dos projetos ficou cada vez mais complexa.
+ A quantidade de dinheiro, falha e tempo começou a ser um problema, principalmente porque
+ não podia perder tempo.
+
+  Com isso começou a detalhar cada etapa de um projeto, com isso gerou o que se chamam de crise
+  do software.
+  
+  A crise do Software foi exatamente isso, os projetos cresceram demais, o hardware cresceu 
+  demais, porém, a capacidade de desenvolver software de acordo com esse poder que foi dado, 
+  começou a causar problemas, neste momento começou a criar as primeiras metodologias de 
+  desenvolvimento software.
+  
+  
+Referências Bibiográficas:
+
+Engenharia de Software 
+	Uma abordagem profissional 8º Ediçao
+Autor: Roger S.Pressman 
+	   Bruce R. Maxim
+
+Em média R$170,00 - Americanas
+
+------------------------------
+------------------------------
+Utilizando UML e padrões 3º Edição
+Autor: Craig Larman 
+Prefácio de Philippe Kruchten
+
+-- Verificar no Kindle
+------------------------------
+------------------------------
+
+Pesquisar na estante virtual
+
+https://www.estantevirtual.com.br/carrinho
+
+
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+3.0202 As Principais Características Das Metodologias Tradicionais 
+
+
+  -- REPRESENTAÇÃO SIMPLIFICADA DO PROCESSO:
+  ------------------------------------------
+  
+   * Conjunto de práticas recomendadas para o desenvolvimento de software.
+   * Auxiliar no desenvolvimento de software.
+   * Metodologias Tradicionais e Metodologias Ágeis.
+   
+   
+   Modelo Tradicional 
+					X  
+					 Modelo Ágil 
+   --------------------------------
+   
+
+   Modelo Tradicional:
+				* Forte Hierarquia
+				* Pouca Autonomia
+				* Competência Duvidosa
+				* Burocracia
+				
+   Isso acaba impactando porque tudo depende de aprovação, a criatividade fica um pouco ingessada.
+   Outro ponto importante, é que geralmente quem aprova, não sabe o que está aprovando, com isso
+   acabava impactando os times e acontecia com frequencia nas metodologias tradicionais.
+   Tem que fazer documentação para tudo, tem que pedir autorização, enviar documentação, 
+   enviar e-mail, formalizar tudo e não necessariamente vai contribuir para o desenvolvimento 
+   do software.
+   
+    Em resumo no modelo Tradicional 80% das funcionalidades não são relevantes para o software
+	produzido.
+	
+	Apenas 20% das funcionalidades eram realmente utilizadas.
+	
+	Fonte dessa informação: queio manifesto
+		https://www.versionome.com/assets/img/files/CHAOSManifesto2013.pdf
+		
+   
+    Um exemplo desse modelo é o pacote office, vem com um monte de recursos que raramente são 
+	usados, com isso se tem um desperdício de dinheiro quando se desenvolve um funcionalidades
+	que não será utilizada.
+
+ Pesquisar --> sobre a lógica de pareto: 80%/20%
+	20% das funcionalidades geram 80% do valor produto.
+	
+ O Princípio de Pareto, ou regra 80/20, é uma tendência que prevê que 80% dos efeitos surgem a 
+ partir de apenas 20% das causas, podendo ser aplicado em várias outras relações de causa e 
+ efeito.	
+ 
+ Cerca de 20% do esforço que você dedica ao trabalho são responsáveis por 80% do seu desempenho, 
+ 20% dos produtos ou serviços que sua empresa comercializa retornam 80% do faturamento, 
+ e 20% dos seus colaboradores garantem 80% dos resultados. 
+ Esse é o famoso Princípio de Pareto, um padrão intrigante observado nos mais distintos cenários 
+ e contextos.
+	
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------	
+5.0204 Estamos "Jogando" Com As Regras Erradas
+
+ O grande problema do desenvolvimento de software é que quando vc tem muita hierarquiquia, muita
+ burocracia, várias camadas de decisão, a mensagem não chega exatamente da forma que vc gostaria
+ e a compreensão fica comprometida, além de acabar desenvolvendo coisas que não vão sendo 
+ utilizadas.
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------	
+5.0204 Estamos "Jogando" com As Regras Erradas
+
+ Analogia no desenvolvimento de software.
+ 
+ * Alguém vai lá, levanta os requisito, escreve um monte de documento e na hora de entregar as
+   coisas são bem diferentes do esperado.
+  
+ * Qual é o problema?
+		Geralmente se tem pouco dinheiro e pouco tempo.
+		
+ * Um dos principais poblemas é que fazer software, não é fazer prédio, porque não se pode tocar,
+   não se pode visualisar, pq é algo intângível, e a engenharia de software tradicional encarava 
+   dessa forma, como se fosse um projeto engenharia civil.
+   
+ 
+ CICLO DE DESENVOLVIMENTO TRADICIONAL:
+ -------------------------------------
+	
+ Análise (Requisitos de Negócio)
+	Design(Design Técnico)
+		Desenvolvimento(Codificação e Testes)
+			Lançamento(Aprovação do Cliente e Lançamento)
+			
+ * Nesse modelo só podia fazer  próxima etapa quando a anterior termina, com isso acarretava 
+   bastante de problemas.
+   
+  Barry Boehn
+  -----------
+   Nos anos 80 Barry Boahn, criou um gráfico chamado CUSTO DA MUDANÇA.
+   
+   Esse gráfico mostra que a tendência pra manter um software vai aumentar ao longo do tempo,
+   e se vc encontra um bug na hora da especificação, fica muito mais barato do encontrar ele
+   depois de meses do desenvolvimento.
+   
+ Mudanças podem ser negativas, mas podem ser possitivas.
+ 
+ * As pessoa veem mudanças de forma negativa e outras positivas, isso depende do ponto de vista
+ Exemplo:
+	O Gerente que envio dois vendedores para uma cidade onde ninguém usava chinelos, um acho 
+	que não tinha o que fazer, o outro achou um excelente negócio, então tudo depende do ponto
+	de vista.
+
+ Existe um diferença muito grande entre o mundo físico e o digital.
+ Exemplo:
+  Se vc mandar desenvolver um hardware em vários países diferentes, o resultado vai sair mais 
+  ou menos igual, se vc mandar desenvolver um software em países ou empresas diferentes, 
+  os resultados serão diferentes.
+  
+  Outro exemplo, é sobre a AMAZON:
+  
+  É muito mais fácil entregar um livro digital do que físico.
+  
+  No Digital vc tem: 
+					* Fluidez
+					* Maleabilidade
+					* Invisibilidade
+					* Complexidade(Elementos distintos)
+					* Baixo custo de manufatura (O preço de fazer uma cópia ou sem é o mesmo preço)
+					* Rápida evolução
+   
+ A experiência de décadas seguindo pesadas práticas prescritivas tornou evidente que:
+ 
+ * Os CLIENTES ou USUÁRIOS não tem certeza do que eles querem.
+ 
+ * Eles tem DIFICULDADE DE EXPRESSA tudo o que querem e pensam.
+ 
+ * Muitos DETALHES do que eles querem SÓ SERÃO REVELADOS DURANTE O DESENVOLVIMENTO.
+ 
+ * Os DETALHES SÃO COMPLEXOS para as pessoas.
+ 
+ * Na medida em que elas vêem o produto sendo contruído, ELAS MUDAM DE IDÉIA.
+ 
+ * FORÇAS EXTERNAS trazem MUDANÇAS ou MELHORIAS nos requisitos.
+ 
+ Quanto mais se aproxima do cliente/usuário é melhor, para minimizar os problemas.
+ 
+ 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------	
+6.0205 Referências Bibiográficas 
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+Seção 3:O Modelo Ágil 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

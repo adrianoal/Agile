@@ -1,0 +1,38 @@
+### Informações do Cartão
+
+* RELEASE: Snapshot
+* PROJETO: Report API
+* INÍCIO: DD/MM/2018
+* FIM: DD/MM/2018
+
+### Informações de Progresso
+
+* DESIGN: 0
+
+* REVISÃO DE DESIGN: 0
+
+* TESTES / CODIFICAÇÃO: 0
+
+* REVISÃO DE CODIGO REVIEW: 0
+
+* REVISÃO DE NEGÓCIO: 0
+
+* BLOQUEIO: 0
+
+* ACEITAÇÃO: 0
+
+### Estatisticas
+
+* NOVOS TESTES UNITÁRIIOS: 0
+
+* NOVOS TESTES DE CONTRATO: 0
+
+* NOVOS TESTES DE INTEGRAÇÃO: 0
+
+* COBERTURA DE TESTES: (ListA de classes %)
+
+* Link das classes de teste:
+
+### Referência
+
+[RedMine/JIRA/Board Trello](http://link.com/xyz) 
