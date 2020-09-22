@@ -383,6 +383,33 @@ OBJETIVO		Controlar, em busca		Simplificar processo de desenvolvimento
  	  
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
+1.0305 Mudanças de Paradigma - Prefira Microincrementos 
+
+ AGILE = ITERATIVO 		+ 		INCREMENTAL 
+			|						|
+			|						|
+		Não tente fazer			Não construa tudo de uma vez 
+		tudo certo desde
+		o começo 
+		
+		
+ Em resumo a idéia e fazer pequenas entregas, entregas VERTICAIS.
+ 
+ Exemplo:
+ 
+ CLIENT X X X X 
+ SERVER X X X 
+ DB X X X  Até o produto ficar pronto(Produto)
+ 
+ Mantenha as interações curtas (2-3 semanas)
+ 
+ Com isso o gráfico do Barry Boehn "CUSTO DAS MUDANÇAS" a curva muda, vai caindo...
+ 
+ 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+ 
  
  
  
