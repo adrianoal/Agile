@@ -312,6 +312,88 @@ OBJETIVO		Controlar, em busca		Simplificar processo de desenvolvimento
  
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
+10.0304 O Manifesto Ágil 
+
+ Link --> 	http://agilemanifesto.org/iso/ptbr/manifesto.html 
+ 
+ Criado em Fevereiro de 2001 --> Snowbird Ski resort, Ttah 
+ 
+ Kent Beck
+ Mike Beedle
+ Arie van Bennekum
+ Alistair Cockburn
+ Ward Cunnigham
+ Martin Fowler
+ James Grenning
+ Jim Highhsmith
+ Andrew Hunt
+ Ron Jeffries
+ Jon Kern
+ Brian Marick
+ Robert C. Martin
+ Steve Mellor
+ Ken Schwaber
+ Jeff Sutherland
+ Jeff Sutherland
+ Dave Thomas 
+ 
+ Indivíduos e interações   MAIS IMPORTANTE que processos e ferramentas 
+ Software em funcionamento MAIS IMPORTANTE que documentação abrangente
+ Colaboração com o cliente MAIS IMPORTANTE que negociação de contratos
+ Responder a mudanças      MAIS IMPORTANTE que seguir um plano
+ 
+ Ou seja, mesmo havendo valor nos itens à direita, valorizamos MAIS os itens à esquerda.
+ 
+ 
+ OS 12 PRINCÍPIOS ÁGEIS 
+ ----------------------
+ 
+ 1 - Nossa maior prioridade é SATISFAZER O CLIENTE através da entrega contínua e adiantada de software com valor 
+     agregado.
+	 
+ 2 - MUDANÇAS NOS REQUISITOS SÃO BEM VINDAS, mesmo tardeamente no desenvolvimento. 
+     Processos ágeis tiram vantagens das mudanças visando vantagem competitiva para o cliente.
+	 
+ 3 - ENTREGAR FREQUENTEMENTE SOFTWARE FUNCIONANDO, de poucas semanas a poucos meses, com preferência à menor escala
+     de tempo.
+
+ 4 - PESSOAS DE NEGÓCIO E DESENVOLVEDORES DEVEM TRABALHAR diariamente EM CONJUNTO por todo o projeto.
+
+ 5 - Construa projetos em torno de INDIVÍDUOS MOTIVADOS. Dê a eles o ambiente e o suporte necessário e CONFIE 
+     neles para fazer o trabalho.
+	 
+ 6 - O método mais eficiente e eficaz de transmitir informações entre uma equipe de desenvolvimento é através de 
+     CONVERSA FACE A FACE.	 
+ 
+ 7- SOFTWARE FUNIONANDO é a medida primária de progresso.
+
+ 8 - Os processos ágeis promevem DESENVOLVIMENTO SUSTENTÁVEL. Os patrocinadores, desenvolvedores e usuários devem 
+     ser capazes de manter um ritmo constante indefinidamente.
+	 
+ 9 - Contínua atenção À EXCELENCIA TÉCNICA E BOM DESIGN aumenta a agilidade
+
+ 10 - SIMPLICIDADE - a arte de maximinizar a quantidade de trabalho não realizado é essencial.
+ 
+ 11 - As melhores arquiteturas, requisitos e designs emergem de EQUIPES AUTO ORGANIZÁVEIS.
+      Ex. Os software auto source, My SQL e etc...
+	  
+ 12 - Em intervalos regulares, a equipe REFLETE SOBRE COMO SE TORNAR MAIS EFICAZ e então refina e ajusta seu 
+      comportamento de acordo.
+
+ 	  
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 
 
 
