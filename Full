@@ -273,6 +273,72 @@ Seção 3:O Modelo Ágil
  
  * Em 2001, 17 especialistas criaram a ALIANÇA ÁGIL  e através do manifesto Ágil, POPULARIZOU-SE o termo
    METODOLOGIA ÁGIL ou FRAMEWORK ÁGIL.
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------  
+9.0303 Características Fundamentais do Agile 
+
+ 1º FLEXIBILIDADE 
+		Está sempre adapitando, sempre procurando reagir as mudanças, entender o feedback do cliente e 
+		adapitar o projeto de acordo com isso.
+		
+ 2º ITERATIVO e ICREMENTAL
+		Ou seja, vc não faz o projeto todo de uma vez, se faz por parte até que no final de tudo se tem o resultado
+		completo.
+		
+ -- ABORDAGEM CLÁSSICA vc. ABORDAGEM ÁGIL:
+ -----------------------------------------
+ 
+				CLÁSSICA				ÁGIL
+ 
+DESENVOLVEDOR	Hábil 					Ágil 
+CLIENTE			Pouco envolvido			Comprometido
+REQUISITOS		Conhecidos, estáveis	Emergentes, mutáveis(Assume q as coisas mudam mesmo)
+RETRABALHO		Caro					Mais barato
+PLANEJAMENTO	Direciona resultados	Resultados o direcionam 
+FOCO			Grandes projetos		Todos os tamanhos de projetos 
+OBJETIVO		Controlar, em busca		Simplificar processo de desenvolvimento
+				de alcançar o 
+				planejado
+
+ 
+ O manifesto Ágil é composto pela declaração de alguns valores e 12 princípios que fundamentam o desenvolvimento 
+ ágil de software.
+ 
+ Cada MÉTODO ÁGIL possui suas próprias práticas, entretanto TODOS em algum momento COMPARTILHAM dos VALORES e 
+ PRINCÍPIOS declarados no MANIFESTO ÁGIL.
+ 
+ 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
     
  
