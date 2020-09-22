@@ -429,8 +429,40 @@ OBJETIVO		Controlar, em busca		Simplificar processo de desenvolvimento
  
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
+13.0307 Estimativas Ágeis 
 
+ * Um fato que temos que encarar é que as funcionalidades tem tamanhos diferentes 
  
+ Uma idéia é saber mensurar quantos cartões eu consigo entregar por release.
+ 
+ Outra abordagem é estimar o tamanho.
+ 
+ 
+ ESTRATÉGIA DE ESTIMATIVA ÁGIL
+ 
+ * Não estime tempo.
+ 
+	* Estime o TAMNHO RELATIVO das features
+	* Meça a velocidade por sprint.
+	* DERIVE o plano de release.
+	
+ *(Regra do Scrum) Estimativas feitas pelas pessoas QUE FARÃO O TRABALHO.
+	* Não pelas pessoas que querem o trabalho feito.
+	
+ * Estime e reestime continuamente durante o projeto 
+	* Não confie nas estimativas iniciais
+	
+ * Prefira comunicação verbal ao invés de especificações detalhadas e escritas.
+
+ * Evite falsa precisão
+	* Melhor estar mais ou menos certo do que precisamente errado.
+	
+	
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+	
+	
 
 
 
