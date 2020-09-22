@@ -408,9 +408,43 @@ OBJETIVO		Controlar, em busca		Simplificar processo de desenvolvimento
  
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
+12.0306 Planejamento e Backlog 
+
+ O planejamento é mais fácil com lançamentos frequentes
+ 
+ No Cascata a entrega é feita somente no final
+	Define --------> Build --------> Release
+ 
+ 
+ No Agil entrega valor gradativamente a cada release
+  
+  Define ---> Build ---> Release    
+	Define ---> Build ---> Release
+		Define ---> Build ---> Release
+			Define ---> Build ---> Release
+			
+ 
+ 
+ Obs: Aceite! As estimativas são quase sempre erradas!
+ 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
  
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
  
