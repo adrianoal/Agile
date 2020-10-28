@@ -596,8 +596,75 @@ Autor: Kent beck
 
 ---------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------- 
+Seção 5: O Kanbam no Agile 
+
+19.0501 O Kanban no Agile 
+
+ Como foi implementado no desenvolvimento de software?
+ 
+ Inicialmente foi implementado na fabrica da Toyota.
+ Um dos resposáveis por introduzir o Kanban no desenvolvimento de software por volta de 2008 
+foi o DAVID ANDERSON.
+
+ O Scrum e o XP já tinham um quadro antes, porém, não atendia as exigencias, nesta época 
+ DAVID ANDERSON trabalhava na Microssoftware.
+ 
+ Bibiográfias:
+ 
+ David J. Anderson 
+			Lessons in AGILE MANAGEMENT On the Road to Kanban
+			
+ David J. Anderson 
+			Kanban Evolutionáres Change Management 
+			
+ David J. Anderson 
+			Kanban Successful Evolutionary Change for your Technology Bussiness
+			
+ Alguns desses livros tem em versões em português outros não.
 
 
+ Vale destacar JESPER BOEG da Triforce um  Dinamarques
+
+ JESPER BOEG
+			Kanban em 10 Passos
+			
+			
+ Qual a proposta do Kanban? 
+ É fazer a evolução de um processo já existente, ou seja, eu posso aplicar o Kanban em um 
+ projeto cascata por exemlo, não é restritivo. A vantagem é que não rompe com hierarquia,
+ é menos traumático adotar o Kanban pra depois ir para o XP ou Scrum.
+ Kanban é o primeiro passo pra quem quer adotar metodologias Ágeis no seu processo, pra depois
+ ir para os outros frameworks...
+ 
+ Todo processo é diferente, portanto, suas restrições também são!
+ 
+ A evolução deve ser contextualizada como é na natureza, de forma muito natural.
+ 
+ Deve acompanhar o efeito das mudanças.
+ 
+ Mudar por mudar não faz sentido. Tenha um objetivo em vista.
+ 
+ Kanban = Cartão Sinalizador
+ 
+ 
+ PRESCRITIVO(Uma série de regras) 
+  RUP
+  (120)
+		XP
+		(13)
+			SCRUM
+			(9)
+				Kanban
+				 (3/5)
+					WHATEVER
+					    (0)
+ ADAPTATIVO
+			
+			
+			
+ 
+ 
+ 
 
 
 
